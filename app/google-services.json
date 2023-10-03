@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992968604820",
+    "project_id": "fitnessapp-e3819",
+    "storage_bucket": "fitnessapp-e3819.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992968604820:android:441b064dfc63d9a0330881",
+        "android_client_info": {
+          "package_name": "com.gabriela.fitnessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC92e3Prus3dJy8cmCL0KGy5gH9rd716tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

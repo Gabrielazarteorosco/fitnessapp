@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">fitnessapp</string>
+    <string name="login">Login</string>
+    <string name="digite_sua_senha">digite sua senha</string>
+    <string name="digite_o_seu_email">digite o seu email</string>
+    <string name="healthy_life">Healthy life</string>
+    <string name="todo">TODO</string>
+</resources>
